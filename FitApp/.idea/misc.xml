@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Faazil/Downloads/FitApp/app/src/main/res/drawable/gradient.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Faazil/Downloads/FitApp/app/src/main/res/drawable/ic_dialog_map.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Faazil/Downloads/FitApp/app/src/main/res/drawable/map.xml" value="0.3287037037037037" />
+        <entry key="..\:/Users/Faazil/Downloads/FitApp/app/src/main/res/layout/activity_main.xml" value="0.17426545086119555" />
+        <entry key="..\:/Users/Faazil/Downloads/FitApp/app/src/main/res/layout/activity_maps.xml" value="0.20260416666666667" />
+        <entry key="app/src/main/res/drawable/addweight.xml" value="0.23796296296296296" />
+        <entry key="app/src/main/res/drawable/forward_icon.xml" value="0.371875" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.30570652173913043" />
+        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.19791666666666666" />
+        <entry key="app/src/main/res/layout/activity_player.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/addweight.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/songActivity.xml" value="0.18229166666666666" />
+        <entry key="app/src/main/res/layout/song_list.xml" value="0.19791666666666666" />
+        <entry key="app/src/main/res/layout/song_name_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/songlist.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/userinfo.xml" value="0.10324483775811209" />
+        <entry key="app/src/main/res/layout/userupdates.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/weightentry.xml" value="0.11203703703703703" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
